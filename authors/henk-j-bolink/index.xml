@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henk J Bolink | Jorge Ávila</title>
+    <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
+      <atom:link href="https://jorgeavilag.github.io/authors/henk-j-bolink/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henk J Bolink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jorgeavilag.github.io/img/icon-192.png</url>
+      <title>Henk J Bolink</title>
+      <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
+    </image>
+    
+    <item>
+      <title>Trap‐assisted non‐radiative recombination in organic–inorganic perovskite solar cells</title>
+      <link>https://jorgeavilag.github.io/publication/my-paper-name/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/publication/my-paper-name/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;hugo&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;hugo serve -w&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

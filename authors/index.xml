@@ -5,12 +5,60 @@
     <link>https://jorgeavilag.github.io/authors/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://jorgeavilag.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Araceli Miquel Sempere</title>
+      <link>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Momblona</title>
+      <link>https://jorgeavilag.github.io/authors/cristina-momblona/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/cristina-momblona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gert‐Jan AH Wetzelaer</title>
+      <link>https://jorgeavilag.github.io/authors/gertjan-ah-wetzelaer/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/gertjan-ah-wetzelaer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henk J Bolink</title>
+      <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/henk-j-bolink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Ávila</title>
+      <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/jorge-avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Scheepers</title>
+      <link>https://jorgeavilag.github.io/authors/max-scheepers/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/max-scheepers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

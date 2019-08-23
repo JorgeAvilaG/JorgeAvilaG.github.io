@@ -3,11 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/admin/</loc>
+    <loc>https://jorgeavilag.github.io/publication_types/2/</loc>
+    <lastmod>2019-08-22T18:40:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/intento/</loc>
+    <lastmod>2019-08-22T18:40:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/</loc>
+    <lastmod>2019-08-22T18:40:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication_types/</loc>
+    <lastmod>2019-08-22T18:40:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/</loc>
+    <lastmod>2019-08-22T18:40:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jorgeavilag.github.io/authors/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/cristina-momblona/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/gertjan-ah-wetzelaer/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/henk-j-bolink/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/max-scheepers/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/my-paper-name/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -15,19 +76,7 @@
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://jorgeavilag.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/publication/</loc>
   </url>
   
   <url>
@@ -36,6 +85,10 @@
   
   <url>
     <loc>https://jorgeavilag.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/publication1/</loc>
   </url>
   
 </urlset>
