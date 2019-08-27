@@ -5,7 +5,7 @@
     <link>https://jorgeavilag.github.io/authors/max-scheepers/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/max-scheepers/index.xml" rel="self" type="application/rss+xml" />
     <description>Max Scheepers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Max Scheepers</title>
@@ -13,31 +13,11 @@
     </image>
     
     <item>
-      <title>Trap‐assisted non‐radiative recombination in organic–inorganic perovskite solar cells</title>
-      <link>https://jorgeavilag.github.io/publication/my-paper-name/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/my-paper-name/</guid>
-      <description>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Command&lt;/th&gt;
-&lt;th&gt;Description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;hugo&lt;/td&gt;
-&lt;td&gt;Build your website.&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;hugo serve -w&lt;/td&gt;
-&lt;td&gt;View your website.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <title>Trap-Assisted Non-radiative Recombination in Organic – Inorganic Perovskite Solar Cells</title>
+      <link>https://jorgeavilag.github.io/publication/wetzelaer-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/publication/wetzelaer-2015/</guid>
+      <description></description>
     </item>
     
   </channel>

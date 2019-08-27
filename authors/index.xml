@@ -5,7 +5,7 @@
     <link>https://jorgeavilag.github.io/authors/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,33 +13,49 @@
     </image>
     
     <item>
-      <title>Araceli Miquel Sempere</title>
-      <link>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</guid>
+      <title>Andreas Schiller</title>
+      <link>https://jorgeavilag.github.io/authors/andreas-schiller/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/andreas-schiller/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cristina Momblona</title>
-      <link>https://jorgeavilag.github.io/authors/cristina-momblona/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/cristina-momblona/</guid>
+      <title>Beat Ruhstaller</title>
+      <link>https://jorgeavilag.github.io/authors/beat-ruhstaller/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/beat-ruhstaller/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gert‐Jan AH Wetzelaer</title>
-      <link>https://jorgeavilag.github.io/authors/gertjan-ah-wetzelaer/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/gertjan-ah-wetzelaer/</guid>
+      <title>Chris Dreessen</title>
+      <link>https://jorgeavilag.github.io/authors/chris-dreessen/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/chris-dreessen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Pérez-del-Rey</title>
+      <link>https://jorgeavilag.github.io/authors/daniel-perez-del-rey/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/daniel-perez-del-rey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evelyne Knapp</title>
+      <link>https://jorgeavilag.github.io/authors/evelyne-knapp/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/evelyne-knapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Henk J Bolink</title>
       <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/henk-j-bolink/</guid>
       <description></description>
     </item>
@@ -47,15 +63,463 @@
     <item>
       <title>Jorge Ávila</title>
       <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/jorge-avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kassio P S Zanoni</title>
+      <link>https://jorgeavilag.github.io/authors/kassio-p-s-zanoni/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/kassio-p-s-zanoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin T Neukom</title>
+      <link>https://jorgeavilag.github.io/authors/martin-t-neukom/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/martin-t-neukom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Sessolo</title>
+      <link>https://jorgeavilag.github.io/authors/michele-sessolo/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/michele-sessolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Züfle</title>
+      <link>https://jorgeavilag.github.io/authors/simon-zufle/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/simon-zufle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana M Igual-Muñoz</title>
+      <link>https://jorgeavilag.github.io/authors/ana-m-igual-munoz/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/ana-m-igual-munoz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo P Boix</title>
+      <link>https://jorgeavilag.github.io/authors/pablo-p-boix/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/pablo-p-boix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axel Fischer</title>
+      <link>https://jorgeavilag.github.io/authors/axel-fischer/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/axel-fischer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koen Vandewal</title>
+      <link>https://jorgeavilag.github.io/authors/koen-vandewal/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/koen-vandewal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sascha Ullbrich</title>
+      <link>https://jorgeavilag.github.io/authors/sascha-ullbrich/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/sascha-ullbrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Reineke</title>
+      <link>https://jorgeavilag.github.io/authors/sebastian-reineke/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/sebastian-reineke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Tang</title>
+      <link>https://jorgeavilag.github.io/authors/zheng-tang/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/zheng-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achintya Bera</title>
+      <link>https://jorgeavilag.github.io/authors/achintya-bera/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/achintya-bera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claus Hierlinger</title>
+      <link>https://jorgeavilag.github.io/authors/claus-hierlinger/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/claus-hierlinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristina Momblona</title>
+      <link>https://jorgeavilag.github.io/authors/cristina-momblona/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/cristina-momblona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Cahen</title>
+      <link>https://jorgeavilag.github.io/authors/david-cahen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/david-cahen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Davide Ceratti</title>
+      <link>https://jorgeavilag.github.io/authors/davide-ceratti/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/davide-ceratti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dengyang Guo</title>
+      <link>https://jorgeavilag.github.io/authors/dengyang-guo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/dengyang-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doron Azulay</title>
+      <link>https://jorgeavilag.github.io/authors/doron-azulay/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/doron-azulay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eli Zysman-Colman</title>
+      <link>https://jorgeavilag.github.io/authors/eli-zysman-colman/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/eli-zysman-colman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elzbieta Trzop</title>
+      <link>https://jorgeavilag.github.io/authors/elzbieta-trzop/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/elzbieta-trzop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabriel Lozano</title>
+      <link>https://jorgeavilag.github.io/authors/gabriel-lozano/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/gabriel-lozano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gary Hodes</title>
+      <link>https://jorgeavilag.github.io/authors/gary-hodes/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/gary-hodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henk J. Bolink</title>
+      <link>https://jorgeavilag.github.io/authors/henk-j.-bolink/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/henk-j.-bolink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hernán Míguez</title>
+      <link>https://jorgeavilag.github.io/authors/hernan-miguez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/hernan-miguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igal Levine</title>
+      <link>https://jorgeavilag.github.io/authors/igal-levine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/igal-levine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaac Balberg</title>
+      <link>https://jorgeavilag.github.io/authors/isaac-balberg/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/isaac-balberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lidón Gil-Escrig</title>
+      <link>https://jorgeavilag.github.io/authors/lidon-gil-escrig/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/lidon-gil-escrig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Löic Toupet</title>
+      <link>https://jorgeavilag.github.io/authors/loic-toupet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/loic-toupet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria-Grazia La-Placa</title>
+      <link>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Anaya</title>
+      <link>https://jorgeavilag.github.io/authors/miguel-anaya/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/miguel-anaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oded Millo</title>
+      <link>https://jorgeavilag.github.io/authors/oded-millo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/oded-millo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Boix</title>
+      <link>https://jorgeavilag.github.io/authors/pablo-boix/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/pablo-boix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satyajit Gupta</title>
+      <link>https://jorgeavilag.github.io/authors/satyajit-gupta/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/satyajit-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Albrecht</title>
+      <link>https://jorgeavilag.github.io/authors/steve-albrecht/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/steve-albrecht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom J. Savenije</title>
+      <link>https://jorgeavilag.github.io/authors/tom-j.-savenije/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/tom-j.-savenije/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Véronique Guerchais</title>
+      <link>https://jorgeavilag.github.io/authors/veronique-guerchais/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/veronique-guerchais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Baschieri</title>
+      <link>https://jorgeavilag.github.io/authors/andrea-baschieri/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/andrea-baschieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Mazzanti</title>
+      <link>https://jorgeavilag.github.io/authors/andrea-mazzanti/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/andrea-mazzanti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antonio Pertegás</title>
+      <link>https://jorgeavilag.github.io/authors/antonio-pertegas/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/antonio-pertegas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elia Matteucci</title>
+      <link>https://jorgeavilag.github.io/authors/elia-matteucci/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/elia-matteucci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Leoni</title>
+      <link>https://jorgeavilag.github.io/authors/enrico-leoni/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/enrico-leoni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Monti</title>
+      <link>https://jorgeavilag.github.io/authors/filippo-monti/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/filippo-monti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Letizia Sambri</title>
+      <link>https://jorgeavilag.github.io/authors/letizia-sambri/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/letizia-sambri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicola Armaroli</title>
+      <link>https://jorgeavilag.github.io/authors/nicola-armaroli/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/nicola-armaroli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Jan Anton Koster</title>
+      <link>https://jorgeavilag.github.io/authors/l-jan-anton-koster/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/l-jan-anton-koster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tejas S Sherkar</title>
+      <link>https://jorgeavilag.github.io/authors/tejas-s-sherkar/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/tejas-s-sherkar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benedikt Dänekamp</title>
+      <link>https://jorgeavilag.github.io/authors/benedikt-danekamp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/benedikt-danekamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dávid Forgács</title>
+      <link>https://jorgeavilag.github.io/authors/david-forgacs/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/david-forgacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eelco Tekelenburg</title>
+      <link>https://jorgeavilag.github.io/authors/eelco-tekelenburg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/eelco-tekelenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Bandiello</title>
+      <link>https://jorgeavilag.github.io/authors/enrico-bandiello/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/enrico-bandiello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilbert El-Hajje</title>
+      <link>https://jorgeavilag.github.io/authors/gilbert-el-hajje/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/gilbert-el-hajje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-François Guillemoles</title>
+      <link>https://jorgeavilag.github.io/authors/jean-francois-guillemoles/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/jean-francois-guillemoles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurent Lombez</title>
+      <link>https://jorgeavilag.github.io/authors/laurent-lombez/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/laurent-lombez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Guillemot</title>
+      <link>https://jorgeavilag.github.io/authors/thomas-guillemot/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/thomas-guillemot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Araceli Miquel Sempere</title>
+      <link>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/araceli-miquel-sempere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gert-jan a H Wetzelaer</title>
+      <link>https://jorgeavilag.github.io/authors/gert-jan-a-h-wetzelaer/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/gert-jan-a-h-wetzelaer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Max Scheepers</title>
       <link>https://jorgeavilag.github.io/authors/max-scheepers/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/max-scheepers/</guid>
       <description></description>
     </item>

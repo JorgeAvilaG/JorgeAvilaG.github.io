@@ -5,12 +5,76 @@
     <link>https://jorgeavilag.github.io/tags/</link>
       <atom:link href="https://jorgeavilag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://jorgeavilag.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>lead</title>
+      <link>https://jorgeavilag.github.io/tags/lead/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/lead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perovskites</title>
+      <link>https://jorgeavilag.github.io/tags/perovskites/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/perovskites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photovoltaics</title>
+      <link>https://jorgeavilag.github.io/tags/photovoltaics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/photovoltaics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tin</title>
+      <link>https://jorgeavilag.github.io/tags/tin/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/tin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vacuum deposition</title>
+      <link>https://jorgeavilag.github.io/tags/vacuum-deposition/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/vacuum-deposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metal-halide perovskites</title>
+      <link>https://jorgeavilag.github.io/tags/metal-halide-perovskites/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/metal-halide-perovskites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tandem solar cells</title>
+      <link>https://jorgeavilag.github.io/tags/tandem-solar-cells/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/tandem-solar-cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vapor deposition</title>
+      <link>https://jorgeavilag.github.io/tags/vapor-deposition/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/tags/vapor-deposition/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
