@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
+    <loc>https://jorgeavilag.github.io/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/</loc>
+    <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -130,6 +130,31 @@
   <url>
     <loc>https://jorgeavilag.github.io/tags/vacuum-deposition/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/henk-j.-bolink/</loc>
+    <lastmod>2018-10-03T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/talk/new-talk/</loc>
+    <lastmod>2018-10-03T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/lidon-gil-escrig/</loc>
+    <lastmod>2018-10-03T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/pablo-p.-boix/</loc>
+    <lastmod>2018-10-03T10:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/talk/</loc>
+    <lastmod>2018-10-03T10:00:00+03:00</lastmod>
   </url>
   
   <url>
@@ -223,11 +248,6 @@
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/henk-j.-bolink/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jorgeavilag.github.io/authors/hernan-miguez/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -254,11 +274,6 @@
   
   <url>
     <loc>https://jorgeavilag.github.io/authors/isaac-balberg/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/authors/lidon-gil-escrig/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -472,10 +487,6 @@
   
   <url>
     <loc>https://jorgeavilag.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/talk/</loc>
   </url>
   
 </urlset>
