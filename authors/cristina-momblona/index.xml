@@ -5,12 +5,20 @@
     <link>https://jorgeavilag.github.io/authors/cristina-momblona/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/cristina-momblona/index.xml" rel="self" type="application/rss+xml" />
     <description>Cristina Momblona</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Cristina Momblona</title>
       <link>https://jorgeavilag.github.io/authors/cristina-momblona/</link>
     </image>
+    
+    <item>
+      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
+      <link>https://jorgeavilag.github.io/talk/esmolna-2019/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/talk/esmolna-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
@@ -25,6 +33,14 @@
       <link>https://jorgeavilag.github.io/publication/sherkar-2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/publication/sherkar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient wide band gap hybrid perovskites for monolithic tandem solar cells</title>
+      <link>https://jorgeavilag.github.io/talk/abxpv-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/talk/abxpv-2017/</guid>
       <description></description>
     </item>
     

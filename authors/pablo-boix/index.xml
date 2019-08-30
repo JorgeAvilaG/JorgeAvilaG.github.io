@@ -5,12 +5,20 @@
     <link>https://jorgeavilag.github.io/authors/pablo-boix/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/pablo-boix/index.xml" rel="self" type="application/rss+xml" />
     <description>Pablo Boix</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Pablo Boix</title>
       <link>https://jorgeavilag.github.io/authors/pablo-boix/</link>
     </image>
+    
+    <item>
+      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
+      <link>https://jorgeavilag.github.io/talk/esmolna-2019/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/talk/esmolna-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>

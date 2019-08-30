@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Bandiello | Jorge Ávila</title>
+    <link>https://jorgeavilag.github.io/authors/e.-bandiello/</link>
+      <atom:link href="https://jorgeavilag.github.io/authors/e.-bandiello/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Bandiello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jorgeavilag.github.io/img/icon-192.png</url>
+      <title>E. Bandiello</title>
+      <link>https://jorgeavilag.github.io/authors/e.-bandiello/</link>
+    </image>
+    
+    <item>
+      <title>Methylammonium lead iodide perovskite solar cells</title>
+      <link>https://jorgeavilag.github.io/talk/esmolna-2015/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/talk/esmolna-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
