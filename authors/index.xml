@@ -5,12 +5,20 @@
     <link>https://jorgeavilag.github.io/authors/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://jorgeavilag.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Jorge Ávila</title>
+      <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/jorge-avila/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andreas Schiller</title>
@@ -57,14 +65,6 @@
       <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/henk-j-bolink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jorge Ávila</title>
-      <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/jorge-avila/</guid>
       <description></description>
     </item>
     
