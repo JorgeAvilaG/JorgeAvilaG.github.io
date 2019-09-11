@@ -5,12 +5,28 @@
     <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/jorge-avila/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Ávila</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 08:38:42 +0300</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Jorge Ávila</title>
       <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
     </image>
+    
+    <item>
+      <title>Science and Divulgation</title>
+      <link>https://jorgeavilag.github.io/project/expociencia-divulgation/</link>
+      <pubDate>Fri, 06 Sep 2019 08:38:42 +0300</pubDate>
+      <guid>https://jorgeavilag.github.io/project/expociencia-divulgation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Printing</title>
+      <link>https://jorgeavilag.github.io/project/3d-printing/</link>
+      <pubDate>Fri, 06 Sep 2019 08:37:55 +0300</pubDate>
+      <guid>https://jorgeavilag.github.io/project/3d-printing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advent of Code 2017</title>
