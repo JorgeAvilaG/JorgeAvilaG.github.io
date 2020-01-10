@@ -56,5 +56,16 @@ You can find some information about activities in which I have been participatin
 </description>
     </item>
     
+    <item>
+      <title>Advent of Code 2019</title>
+      <link>https://jorgeavilag.github.io/project/advent-of-code-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/project/advent-of-code-2019/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34; target=&#34;_blank&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
+
+&lt;p&gt;I have been using them to improve my coding experience and my knowledge in algorithms. I have participated in the 2017 and 2018 editions completing all the problems. Here I present my solutions for the year 2019, I have tried to develop clear python jupyter notebooks for the solution of each day, explaining clearly the code and working on the visualization or interesting stuff related with each problem (almost always :D).&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

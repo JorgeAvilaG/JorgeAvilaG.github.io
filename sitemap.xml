@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
+    <loc>https://jorgeavilag.github.io/</loc>
     <lastmod>2019-09-06T08:38:42+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/</loc>
+    <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
     <lastmod>2019-09-06T08:38:42+03:00</lastmod>
   </url>
   
@@ -34,6 +34,11 @@
   
   <url>
     <loc>https://jorgeavilag.github.io/project/advent-of-code-2017/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/project/advent-of-code-2019/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
