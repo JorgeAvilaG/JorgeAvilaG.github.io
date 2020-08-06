@@ -5,7 +5,7 @@
     <link>https://jorgeavilag.github.io/</link>
       <atom:link href="https://jorgeavilag.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Ávila</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 08:38:42 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Jorge Ávila</title>
@@ -13,65 +13,18 @@
     </image>
     
     <item>
-      <title>Science and Divulgation</title>
-      <link>https://jorgeavilag.github.io/project/expociencia-divulgation/</link>
+      <title>Publications</title>
+      <link>https://jorgeavilag.github.io/publication/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jorgeavilag.github.io/project/</link>
       <pubDate>Fri, 06 Sep 2019 08:38:42 +0300</pubDate>
-      <guid>https://jorgeavilag.github.io/project/expociencia-divulgation/</guid>
-      <description>&lt;p&gt;Divulgation have appealed me since a very early age. Some of my first activities are from before my university studies, we were a group of friends that really enjoy developing divulgation projects and we got the first position in a national competition in Spain two consecutive years! It was in 2009 and 2010. The projects were related with mathematics, I remember the first project in 2009 with which we explained the most efficient way to tie shoelaces using grid geometry. In the second year we developed a board game with which you could learn awesome curiosities from the integers to fractal images.
-&lt;div style=&#34;width:33%; margin:0 auto;&#34;&gt;
-&lt;img src=&#34;taza_expociencia_2.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;Nowadays, I continue participating in  divulgation projects. I have been collaborating  in &amp;ldquo;Expociencia&amp;rdquo; since the beginning of my master studies, around 2015. Expociencia is the open day in the Parc Científic of the Universitat de Valencia, It is celebrated each year on May. During this day scientists from the institute prepare more than 100 different activities. We show our installations and the work and research that we develop through experiments and performances, talks and tours to be enjoy by youngh students, families and everyone.
-You can find some information about activities in which I have been participating &lt;a href=&#34;https://minipuntosdeciencia.tumblr.com/&#34; title=&#34;Minipuntos de Ciencia&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;activity photo&#34; /&gt;
-&lt;img src=&#34;Tintas invisibles.jpg&#34; alt=&#34;activity poster example&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example activity poster&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;(Sorry these documents will be mainly in spanish)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>3D Printing</title>
-      <link>https://jorgeavilag.github.io/project/3d-printing/</link>
-      <pubDate>Fri, 06 Sep 2019 08:37:55 +0300</pubDate>
-      <guid>https://jorgeavilag.github.io/project/3d-printing/</guid>
-      <description>&lt;p&gt;3D printing have been shown as a incredible useful tool for my research activities. I have been using mainly OPENSCAD and freeCAD for my designs. You can find in the &lt;a href=&#34;https://github.com/JorgeAvilaG/3D-printing-design&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt; some designs I have made.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advent of Code 2017</title>
-      <link>https://jorgeavilag.github.io/project/advent-of-code-2017/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/project/advent-of-code-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34; target=&#34;_blank&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
-
-&lt;p&gt;I have been using them to improve my coding experience and my knowledge in algorithms. I have participated in the 2017 and 2018 editions completing all the problems. Here I present my solutions for the year 2017, I have tried to develop clear python scripts that lead to the solutions in a efficient and easy way (almost always :D). I am trying to create useful contents related with the problems, for example the featured image in this post is the day 14 solution visualization.&lt;/p&gt;
-
-&lt;p&gt;I am really anxious for the 2019 edition and I am planning to create jupyter notebooks for the solution of each day, explaining clearly the code and working on the visualization or interesting stuff related with each problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advent of Code 2019</title>
-      <link>https://jorgeavilag.github.io/project/advent-of-code-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/project/advent-of-code-2019/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34; target=&#34;_blank&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
-
-&lt;p&gt;I have been using them to improve my coding experience and my knowledge in algorithms. I have participated in the 2017 and 2018 editions completing all the problems. Here I present my solutions for the year 2019, I have tried to develop clear python jupyter notebooks for the solution of each day, explaining clearly the code and working on the visualization or interesting stuff related with each problem (almost always :D).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consistent Device Simulation Model Describing Perovskite Solar Cells in Steady-State, Transient, and Frequency Domain</title>
-      <link>https://jorgeavilag.github.io/publication/neukom-2019/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/neukom-2019/</guid>
+      <guid>https://jorgeavilag.github.io/project/</guid>
       <description></description>
     </item>
     
@@ -84,146 +37,18 @@ You can find some information about activities in which I have been participatin
     </item>
     
     <item>
-      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
-      <link>https://jorgeavilag.github.io/talk/esmolna-2019/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jorgeavilag.github.io/talk/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/talk/esmolna-2019/</guid>
+      <guid>https://jorgeavilag.github.io/talk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FAPb0.5Sn0.5I3: A Narrow Bandgap Perovskite Synthesized through Evaporation Methods for Solar Cell Applications</title>
-      <link>https://jorgeavilag.github.io/publication/doi-10-1002-solr-201900283/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/doi-10-1002-solr-201900283/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of doped charge transport layers on efficient perovskite solar cells</title>
-      <link>https://jorgeavilag.github.io/talk/psco-2018/</link>
-      <pubDate>Wed, 03 Oct 2018 10:00:00 +0300</pubDate>
-      <guid>https://jorgeavilag.github.io/talk/psco-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Electrothermal Feedback and Absorption-Induced Open-Circuit-Voltage Turnover in Solar Cells</title>
-      <link>https://jorgeavilag.github.io/publication/phys-rev-applied-9-051003/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/phys-rev-applied-9-051003/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can we use time-resolved measurements to get steady-state transport data for halide perovskites?</title>
-      <link>https://jorgeavilag.github.io/publication/levine-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/levine-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
-      <link>https://jorgeavilag.github.io/publication/avila-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/avila-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of the use of sterically congested Ir(iii) complexes on the performance of light-emitting electrochemical cells</title>
-      <link>https://jorgeavilag.github.io/publication/c-8-tc-01130-c/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/c-8-tc-01130-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of doped charge transport layers on efficient perovskite solar cells</title>
-      <link>https://jorgeavilag.github.io/publication/c-8-se-00218-e/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/c-8-se-00218-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anionic Cyclometalated Iridium(III) Complexes with a Bis-Tetrazolate Ancillary Ligand for Light-Emitting Electrochemical Cells</title>
-      <link>https://jorgeavilag.github.io/publication/matteucci-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/matteucci-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monolithic perovskite-perovskite tandem solar cells</title>
-      <link>https://jorgeavilag.github.io/talk/bienal-2017/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/talk/bienal-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recombination in Perovskite Solar Cells: Significance of Grain Boundaries, Interface Traps, and Defect Ions</title>
-      <link>https://jorgeavilag.github.io/publication/sherkar-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/sherkar-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient wide band gap hybrid perovskites for monolithic tandem solar cells</title>
-      <link>https://jorgeavilag.github.io/talk/abxpv-2017/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/talk/abxpv-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient wide band gap double cation – double halide perovskite solar cells</title>
-      <link>https://jorgeavilag.github.io/publication/c-6-ta-10727-c/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/c-6-ta-10727-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vapor-Deposited Perovskites: The Route to High-Performance Solar Cell Production?</title>
-      <link>https://jorgeavilag.github.io/publication/avila-2017431/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/avila-2017431/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of mobile ions on the electroluminescence characteristics of methylammonium lead iodide perovskite diodes</title>
-      <link>https://jorgeavilag.github.io/publication/c-6-ta-06854-e/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/c-6-ta-06854-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantification of spatial inhomogeneity in perovskite solar cells by hyperspectral luminescence imaging</title>
-      <link>https://jorgeavilag.github.io/publication/c-6-ee-00462-h/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/c-6-ee-00462-h/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methylammonium lead iodide perovskite solar cells</title>
-      <link>https://jorgeavilag.github.io/talk/esmolna-2015/</link>
-      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/talk/esmolna-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trap-Assisted Non-radiative Recombination in Organic – Inorganic Perovskite Solar Cells</title>
-      <link>https://jorgeavilag.github.io/publication/wetzelaer-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/publication/wetzelaer-2015/</guid>
+      <title>Posts</title>
+      <link>https://jorgeavilag.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/post/</guid>
       <description></description>
     </item>
     

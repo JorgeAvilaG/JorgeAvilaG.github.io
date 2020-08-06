@@ -1,20 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/</loc>
-    <lastmod>2019-09-06T08:38:42+03:00</lastmod>
+    <loc>https://jorgeavilag.github.io/publication_types/2/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/</loc>
-    <lastmod>2019-09-06T08:38:42+03:00</lastmod>
+    <loc>https://jorgeavilag.github.io/authors/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/elena-longhi/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/henk-j-bolink/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jorgeavilag.github.io/authors/jorge-avila/</loc>
-    <lastmod>2019-09-06T08:38:42+03:00</lastmod>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/michele-sessolo/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication_types/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/publication/avila-2019/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/seth-r.-marder/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jorgeavilag.github.io/authors/stephen-barlow/</loc>
+    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,11 +90,6 @@
   <url>
     <loc>https://jorgeavilag.github.io/project/advent-of-code-2019/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/publication_types/2/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,32 +123,12 @@
   </url>
   
   <url>
-    <loc>https://jorgeavilag.github.io/authors/henk-j-bolink/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jorgeavilag.github.io/authors/kassio-p-s-zanoni/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jorgeavilag.github.io/authors/martin-t-neukom/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/authors/michele-sessolo/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/publication_types/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/publication/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -324,11 +349,6 @@
   
   <url>
     <loc>https://jorgeavilag.github.io/authors/loic-toupet/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   

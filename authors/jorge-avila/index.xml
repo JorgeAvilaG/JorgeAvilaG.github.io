@@ -5,7 +5,7 @@
     <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/jorge-avila/index.xml" rel="self" type="application/rss+xml" />
     <description>Jorge Ávila</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 08:38:42 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Jorge Ávila</title>
@@ -13,24 +13,26 @@
     </image>
     
     <item>
+      <title>Ruthenium pentamethylcyclopentadienyl mesitylene dimer: a sublimable n-dopant and electron buffer layer for efficient n–i–p perovskite solar cells</title>
+      <link>https://jorgeavilag.github.io/publication/avila-2019/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/publication/avila-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Science and Divulgation</title>
       <link>https://jorgeavilag.github.io/project/expociencia-divulgation/</link>
       <pubDate>Fri, 06 Sep 2019 08:38:42 +0300</pubDate>
       <guid>https://jorgeavilag.github.io/project/expociencia-divulgation/</guid>
       <description>&lt;p&gt;Divulgation have appealed me since a very early age. Some of my first activities are from before my university studies, we were a group of friends that really enjoy developing divulgation projects and we got the first position in a national competition in Spain two consecutive years! It was in 2009 and 2010. The projects were related with mathematics, I remember the first project in 2009 with which we explained the most efficient way to tie shoelaces using grid geometry. In the second year we developed a board game with which you could learn awesome curiosities from the integers to fractal images.
-&lt;div style=&#34;width:33%; margin:0 auto;&#34;&gt;
-&lt;img src=&#34;taza_expociencia_2.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;/div&gt;&lt;/p&gt;
-
+&lt;img src=&#34;taza_expociencia_2.jpg&#34; alt=&#34;taza&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Nowadays, I continue participating in  divulgation projects. I have been collaborating  in &amp;ldquo;Expociencia&amp;rdquo; since the beginning of my master studies, around 2015. Expociencia is the open day in the Parc Científic of the Universitat de Valencia, It is celebrated each year on May. During this day scientists from the institute prepare more than 100 different activities. We show our installations and the work and research that we develop through experiments and performances, talks and tours to be enjoy by youngh students, families and everyone.
-You can find some information about activities in which I have been participating &lt;a href=&#34;https://minipuntosdeciencia.tumblr.com/&#34; title=&#34;Minipuntos de Ciencia&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;activity photo&#34; /&gt;
-&lt;img src=&#34;Tintas invisibles.jpg&#34; alt=&#34;activity poster example&#34; /&gt;&lt;/p&gt;
-
+You can find some information about activities in which I have been participating &lt;a href=&#34;https://minipuntosdeciencia.tumblr.com/&#34; title=&#34;Minipuntos de Ciencia&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;activity photo&#34;&gt;
+&lt;img src=&#34;Tintas-invisibles.jpg&#34; alt=&#34;activity poster example&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example activity poster&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;(Sorry these documents will be mainly in spanish)&lt;/p&gt;
 </description>
     </item>
     
@@ -39,7 +41,7 @@ You can find some information about activities in which I have been participatin
       <link>https://jorgeavilag.github.io/project/3d-printing/</link>
       <pubDate>Fri, 06 Sep 2019 08:37:55 +0300</pubDate>
       <guid>https://jorgeavilag.github.io/project/3d-printing/</guid>
-      <description>&lt;p&gt;3D printing have been shown as a incredible useful tool for my research activities. I have been using mainly OPENSCAD and freeCAD for my designs. You can find in the &lt;a href=&#34;https://github.com/JorgeAvilaG/3D-printing-design&#34; target=&#34;_blank&#34;&gt;github repository&lt;/a&gt; some designs I have made.&lt;/p&gt;
+      <description>&lt;p&gt;3D printing have been shown as a incredible useful tool for my research activities. I have been using mainly OPENSCAD and freeCAD for my designs. You can find in the &lt;a href=&#34;https://github.com/JorgeAvilaG/3D-printing-design&#34;&gt;github repository&lt;/a&gt; some designs I have made.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,10 +50,8 @@ You can find some information about activities in which I have been participatin
       <link>https://jorgeavilag.github.io/project/advent-of-code-2017/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/project/advent-of-code-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34; target=&#34;_blank&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
 &lt;p&gt;I have been using them to improve my coding experience and my knowledge in algorithms. I have participated in the 2017 and 2018 editions completing all the problems. Here I present my solutions for the year 2017, I have tried to develop clear python scripts that lead to the solutions in a efficient and easy way (almost always :D). I am trying to create useful contents related with the problems, for example the featured image in this post is the day 14 solution visualization.&lt;/p&gt;
-
 &lt;p&gt;I am really anxious for the 2019 edition and I am planning to create jupyter notebooks for the solution of each day, explaining clearly the code and working on the visualization or interesting stuff related with each problem.&lt;/p&gt;
 </description>
     </item>
@@ -61,8 +61,7 @@ You can find some information about activities in which I have been participatin
       <link>https://jorgeavilag.github.io/project/advent-of-code-2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/project/advent-of-code-2019/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34; target=&#34;_blank&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt; is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.&lt;/p&gt;
 &lt;p&gt;I have been using them to improve my coding experience and my knowledge in algorithms. I have participated in the 2017 and 2018 editions completing all the problems. Here I present my solutions for the year 2019, I have tried to develop clear python jupyter notebooks for the solution of each day, explaining clearly the code and working on the visualization or interesting stuff related with each problem (almost always :D).&lt;/p&gt;
 </description>
     </item>

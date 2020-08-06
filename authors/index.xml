@@ -5,7 +5,7 @@
     <link>https://jorgeavilag.github.io/authors/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 08:38:42 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Elena Longhi</title>
+      <link>https://jorgeavilag.github.io/authors/elena-longhi/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/elena-longhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henk J Bolink</title>
+      <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/henk-j-bolink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jorge Ávila</title>
       <link>https://jorgeavilag.github.io/authors/jorge-avila/</link>
-      <pubDate>Fri, 06 Sep 2019 08:38:42 +0300</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/jorge-avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria-Grazia La-Placa</title>
+      <link>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Sessolo</title>
+      <link>https://jorgeavilag.github.io/authors/michele-sessolo/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/michele-sessolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seth R. Marder</title>
+      <link>https://jorgeavilag.github.io/authors/seth-r.-marder/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/seth-r.-marder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Barlow</title>
+      <link>https://jorgeavilag.github.io/authors/stephen-barlow/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/authors/stephen-barlow/</guid>
       <description></description>
     </item>
     
@@ -61,14 +109,6 @@
     </item>
     
     <item>
-      <title>Henk J Bolink</title>
-      <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/henk-j-bolink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kassio P S Zanoni</title>
       <link>https://jorgeavilag.github.io/authors/kassio-p-s-zanoni/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -81,14 +121,6 @@
       <link>https://jorgeavilag.github.io/authors/martin-t-neukom/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/martin-t-neukom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michele Sessolo</title>
-      <link>https://jorgeavilag.github.io/authors/michele-sessolo/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/michele-sessolo/</guid>
       <description></description>
     </item>
     
@@ -313,14 +345,6 @@
       <link>https://jorgeavilag.github.io/authors/loic-toupet/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/loic-toupet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maria-Grazia La-Placa</title>
-      <link>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://jorgeavilag.github.io/authors/maria-grazia-la-placa/</guid>
       <description></description>
     </item>
     
@@ -665,7 +689,7 @@
       <link>https://jorgeavilag.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jorgeavilag.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi I&amp;rsquo;m Jorge!  😄 I discovered in Valencia the world of nanoscience where I did a Master and then I started my PhD about photovoltaic devices in the group of Henk Bolink. I am fascinated about new renewable energy sources and interested in computer science. I enjoy so much competitive programming challenges!!&lt;/p&gt;
+      <description>&lt;p&gt;Hi I&amp;rsquo;m Jorge!  😄 I discovered in Valencia the world of Material Science where I have done my MSc and PhD on photovoltaic devices in the group of the Prof. Henk Bolink. I am fascinated about new renewable energy sources, Astrophysics and computer science. I enjoy so much competitive programming challenges!!&lt;/p&gt;
 </description>
     </item>
     

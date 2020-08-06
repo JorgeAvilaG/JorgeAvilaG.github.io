@@ -5,12 +5,20 @@
     <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
       <atom:link href="https://jorgeavilag.github.io/authors/henk-j-bolink/index.xml" rel="self" type="application/rss+xml" />
     <description>Henk J Bolink</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jorgeavilag.github.io/img/icon-192.png</url>
       <title>Henk J Bolink</title>
       <link>https://jorgeavilag.github.io/authors/henk-j-bolink/</link>
     </image>
+    
+    <item>
+      <title>Ruthenium pentamethylcyclopentadienyl mesitylene dimer: a sublimable n-dopant and electron buffer layer for efficient n–i–p perovskite solar cells</title>
+      <link>https://jorgeavilag.github.io/publication/avila-2019/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://jorgeavilag.github.io/publication/avila-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Consistent Device Simulation Model Describing Perovskite Solar Cells in Steady-State, Transient, and Frequency Domain</title>
